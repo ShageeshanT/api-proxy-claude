@@ -1,0 +1,14 @@
+node_modules
+dist
+.git
+.github
+.vscode
+.idea
+*.log
+.env
+.env.*
+coverage
+docs
+*.md
+!README.md
+launchagent
